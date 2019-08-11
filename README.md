@@ -16,4 +16,4 @@ Made using : **create-react-app**
 Head over to the website and give it a try !
 
 ## Hosted at -- 
-[https://intense-scrubland-65606.herokuapp.com/](https://intense-scrubland-65606.herokuapp.com/)
+[https://still-ridge-66097.herokuapp.com/](https://still-ridge-66097.herokuapp.com/)
